@@ -1,0 +1,22 @@
+﻿body{
+
+}
+
+h2{
+    color: darkseagreen;
+    background-color: blanchedalmond;
+    border: solid 1px blue;
+}
+
+.largeFont{
+    font-size:4em;
+}
+
+.blueText{
+    color: blue;
+}
+
+.bodyDiv {
+    background-color: chartreuse;
+    color: hotpink;
+}
